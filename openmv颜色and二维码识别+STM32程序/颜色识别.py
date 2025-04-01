@@ -1,5 +1,3 @@
-# 颜色识别并输出色块中心点坐标 - By: 张怀政 - 周三 12月 30 2020
-
 import sensor, image, time
 from pyb import UART
 import json
